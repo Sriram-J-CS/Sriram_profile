@@ -3,19 +3,17 @@
 🎓 Cyber Security Student  
 🔐 CTF Player | Security Enthusiast  
 
-I am a **Cyber Security student** focused on understanding system vulnerabilities, secure web applications, and real-world attack vectors.  
-I actively practice **CTF challenges**, explore **web and network security concepts**, and strengthen my problem-solving mindset through hands-on learning.
-
-Alongside my security studies, I also explore **full-stack web development** to better understand how applications are built and how they can be secured.
+With a strong interest in offensive and defensive security concepts,  
+I actively work on **CTF challenges**, explore system vulnerabilities, and learn how real-world attacks and defenses operate.  
+I also study application development to better understand how software can be **built securely**.
 
 ---
 
 ## 🔐 Cyber Security Skills
 
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-darkred?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-darkblue?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network%20Security-gray?style=for-the-badge)
-![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-black?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-maroon?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-gray?style=for-the-badge)
 ![Security Fundamentals](https://img.shields.io/badge/Security%20Fundamentals-darkgreen?style=for-the-badge)
 
 ---
@@ -31,41 +29,27 @@ Alongside my security studies, I also explore **full-stack web development** to 
 
 ---
 
-## 🌐 Full-Stack Development (Exploring)
+## 🌐 Application Development (Supporting Skill)
 
-I am learning **full-stack web development** alongside cyber security to gain a deeper understanding of how modern applications are designed, built, and deployed.
+I explore **application and full-stack development** to understand real-world software architecture and identify security weaknesses at the application level.
 
 **Focus Areas:**
 - Frontend fundamentals (HTML, CSS, JavaScript)
 - Backend basics and APIs
-- Application flow & architecture
 - Secure coding awareness
+- Understanding application attack surfaces
 
 ---
 
-## 🛠️ Tools & Technologies
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Networking](https://img.shields.io/badge/Networking-gray?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-darkblue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+## 🌱 Currently Working On
+- Malware behavior & analysis basics  
+- Advanced CTF challenges  
+- Secure application design concepts  
+- Strengthening networking knowledge  
 
 ---
 
-## 🌱 Currently Exploring
-- Web application vulnerabilities  
-- Secure coding practices  
-- CTF problem-solving techniques  
-- Application-level security concepts  
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
+- 📧 Email: sriramworkspace0107@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/sriram-j-4965b8324/
-- 🔗 GitHub: https://github.com/sriram-j-cs
-
 ---
-
-🛡️ **Cyber Security first**, strengthened through **CTFs**, with growing knowledge of **full-stack development** to better secure real-world applications.
