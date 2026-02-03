@@ -5,9 +5,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f1f,100:00ff88&height=200&section=header&text=Sriram%20J&fontColor=00ffcc&fontSize=52&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20CTF%20Player&descAlignY=60&descSize=20" />
 
 ---
-I am focused on understanding system vulnerabilities, secure web applications, and real-world attack vectors.  
-I actively practice **CTF challenges**, explore **web and network security concepts**, and strengthen my problem-solving mindset through hands-on learning.
-Alongside my security studies, I also explore **full-stack web development** to better understand how applications are built and how they can be secured
+- Focused on understanding system vulnerabilities, secure web applications, and real-world attack vectors  
+- Actively practicing CTF challenges to strengthen problem-solving and security fundamentals  
+- Exploring web and network security concepts through hands-on learning  
+- Learning full-stack web development alongside cyber security studies to understand how applications are built and secured  
 ---
 
 ## 🔐 Cyber Security Skills
