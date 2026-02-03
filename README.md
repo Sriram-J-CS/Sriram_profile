@@ -1,52 +1,74 @@
-# 👋 Hey there, I'm Sriram
+# 👋 Hi, I'm Sriram J
 
-🎓 **B.E. Computer Science Student**  
-📍 Greater Chennai Area, India  
-💻 Web Developer | Full Stack Enthusiast | Problem Solver  
+🎓 Cyber Security Student  
+🔐 CTF Player | Security Enthusiast | Defensive Learner  
 
-As a passionate computer science student at **Sathyabama Institute of Science and Technology**, I’m actively building real-world web projects and strengthening my full stack development skills. I enjoy learning new technologies, improving my coding abilities, and applying concepts in practical applications.
-
----
-
-## 🚀 What I Do
-
-- 🔹 Frontend development with **HTML, CSS, JavaScript**
-- 🔹 Building responsive and interactive web interfaces
-- 🔹 Backend integration using APIs and server-side logic
-- 🔹 Database connectivity and data-driven applications
-- 🔹 Version control using **Git & GitHub**
+I am a **Cyber Security student** passionate about understanding real-world threats, system vulnerabilities, and secure application design.  
+I actively practice **CTF challenges**, explore **web security concepts**, and continuously upskill through certifications and hands-on learning.
 
 ---
 
-## 🛠️ Tech Skills
+## 🔐 Cyber Security Skills
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-darkred?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web%20Security-darkblue?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network%20Security-gray?style=for-the-badge)
+![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-black?style=for-the-badge)
+![Security Fundamentals](https://img.shields.io/badge/Security%20Fundamentals-darkgreen?style=for-the-badge)
+
+---
+
+## 🧠 CTF Skills & Domains
+
+![CTF](https://img.shields.io/badge/CTF%20Player-black?style=for-the-badge)
+![Web Exploitation](https://img.shields.io/badge/Web%20Exploitation-darkblue?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-purple?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-darkred?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-teal?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Digital%20Forensics-darkgray?style=for-the-badge)
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Networking](https://img.shields.io/badge/Networking-gray?style=for-the-badge)
 
 ---
 
-## 📂 Featured Projects
+## 📜 Certifications
 
-### 🌐 Full Stack Development Tasks
-A series of 6 web projects showcasing my skills from core HTML structure to API & database integration.
+- 🏅 Introduction to Cyber Security  
+- 🏅 Web Security Fundamentals  
+- 🏅 Networking Basics  
+- 🏅 Ethical Hacking (Beginner Level)  
 
-🔗 Repo: https://github.com/sriram-j-cs/Full-stack-development_tasks  
-🔗 Live Demo: https://sriram-j-cs.github.io/Full-stack-development_tasks/
+*(Add / edit certification names as you complete more)*
+
+---
+
+## 📊 GitHub Stats
+
+![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriram-j-cs&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-j-cs&layout=compact&theme=github_dark)
+
+---
+
+## 🌱 Currently Exploring
+- Advanced web vulnerabilities  
+- Secure coding practices  
+- CTF platforms & real-world attack scenarios  
+- Defensive security concepts  
 
 ---
 
 ## 📫 Connect With Me
-
-Feel free to reach out on my professional profiles:
-
 - 🔗 LinkedIn: https://www.linkedin.com/in/sriram-j-4965b8324/
 - 🔗 GitHub: https://github.com/sriram-j-cs
 
 ---
 
-⭐ I’m always learning, creating, and exploring new opportunities in software development.
+🛡️ Focused on **Cyber Security**, sharpened through **CTFs**, and driven by continuous learning.
