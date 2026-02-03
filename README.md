@@ -5,17 +5,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f1f,100:00ff88&height=200&section=header&text=Sriram%20J&fontColor=00ffcc&fontSize=52&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20CTF%20Player&descAlignY=60&descSize=20" />
 
 ---
-I am a **Cyber Security student** focused on understanding system vulnerabilities, secure web applications, and real-world attack vectors.  
+I am focused on understanding system vulnerabilities, secure web applications, and real-world attack vectors.  
 I actively practice **CTF challenges**, explore **web and network security concepts**, and strengthen my problem-solving mindset through hands-on learning.
 
 Alongside my security studies, I also explore **full-stack web development** to better understand how applications are built and how they can be secured.
 ---
 
 ## 🔐 Cyber Security Skills
-<img src="https://img.shields.io/badge/Malware%20Analysis-8B0000?style=for-the-badge&logo=virus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-2E2E2E?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Security-0A1AFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Application%20Security-0FF1CE?style=for-the-badge"/>
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-006400?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge)
+![Security Fundamentals](https://img.shields.io/badge/Security%20Fundamentals-008B8B?style=for-the-badge)
+![System Vulnerabilities](https://img.shields.io/badge/System%20Vulnerabilities-004953?style=for-the-badge)
 
 ---
 
@@ -29,7 +29,14 @@ Alongside my security studies, I also explore **full-stack web development** to 
 ---
 
 ## 🌐 Application Development (Supporting Skill)
-I explore application and full-stack development to understand how real-world software is built and where security weaknesses originate, helping me approach cyber security from a practical, real-world perspective.
+
+I explore **application and full-stack development** to understand real-world software architecture.
+
+**Focus Areas:**
+- Frontend fundamentals (HTML, CSS, JavaScript)
+- Backend basics and APIs
+- Secure coding awareness
+- Understanding application attack surfaces
 
 ---
 
@@ -42,5 +49,5 @@ I explore application and full-stack development to understand how real-world so
 ---
 
 ## 📫 Contact
-Email: sriramworkspace@gmail.com
-LinkedIn: https://www.linkedin.com/in/sriram-j-4965b8324/  
+📧 sriramworkspace0107@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/sriram-j-4965b8324/  
