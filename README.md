@@ -7,8 +7,7 @@
 ---
 I am focused on understanding system vulnerabilities, secure web applications, and real-world attack vectors.  
 I actively practice **CTF challenges**, explore **web and network security concepts**, and strengthen my problem-solving mindset through hands-on learning.
-
-Alongside my security studies, I also explore **full-stack web development** to better understand how applications are built and how they can be secured.
+Alongside my security studies, I also explore **full-stack web development** to better understand how applications are built and how they can be secured
 ---
 
 ## 🔐 Cyber Security Skills
