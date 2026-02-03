@@ -1,7 +1,8 @@
 <!-- ================= CYBER PROFILE ================= -->
 
 <!-- GREEN CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001f1f,100:00ff88&height=140&section=header&text=Sriram%20|%20Cyber%20Security%20Student%20|%20CTF%20Player&fontColor=00ffcc&fontSize=28&fontAlignY=50" />
+<!-- GREEN CYBER HEADER : BIG NAME + SUBTITLE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f1f,100:00ff88&height=200&section=header&text=Sriram%20J&fontColor=00ffcc&fontSize=52&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20CTF%20Player&descAlignY=60&descSize=20" />
 
 ---
 
