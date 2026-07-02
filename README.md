@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sriram+J;Cyber+Security+Student;Full-Stack+Developer;Building+CyberGuard+IDS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sriram+J;Cyber+Security+Student;Full-Stack+Developer;CTF+Player" alt="Typing SVG" />
 
 <br/>
 
@@ -32,54 +32,55 @@ stack: Python · Flask · Scapy · XGBoost · Wireshark · Kali Linux
 
 ### ⚔️ Arsenal
 
-<div align="center">
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/-Python-14151a?style=flat-square&logo=python&logoColor=00FF9C)
+![Java](https://img.shields.io/badge/-Java-14151a?style=flat-square&logo=openjdk&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-14151a?style=flat-square&logo=javascript&logoColor=00FF9C)
+![C](https://img.shields.io/badge/-C-14151a?style=flat-square&logo=c&logoColor=00FF9C)
+![SQL](https://img.shields.io/badge/-SQL-14151a?style=flat-square&logo=mysql&logoColor=00FF9C)
+![HTML5](https://img.shields.io/badge/-HTML5-14151a?style=flat-square&logo=html5&logoColor=00FF9C)
+![CSS3](https://img.shields.io/badge/-CSS3-14151a?style=flat-square&logo=css3&logoColor=00FF9C)
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,linux,git,github,vscode&theme=dark" />
+**Offensive Security Toolkit**
+<br/>
+![Wireshark](https://img.shields.io/badge/-Wireshark-14151a?style=flat-square&logo=wireshark&logoColor=00FF9C)
+![Nmap](https://img.shields.io/badge/-Nmap-14151a?style=flat-square&logo=nmap&logoColor=00FF9C)
+![Metasploit](https://img.shields.io/badge/-Metasploit-14151a?style=flat-square&logo=metasploit&logoColor=00FF9C)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-14151a?style=flat-square&logo=burpsuite&logoColor=00FF9C)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-14151a?style=flat-square&logo=kalilinux&logoColor=00FF9C)
+![Gobuster](https://img.shields.io/badge/-Gobuster-14151a?style=flat-square&logoColor=00FF9C)
+![Hydra](https://img.shields.io/badge/-Hydra-14151a?style=flat-square&logoColor=00FF9C)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-14151a?style=flat-square&logoColor=00FF9C)
+![LinPEAS](https://img.shields.io/badge/-LinPEAS-14151a?style=flat-square&logoColor=00FF9C)
+![Npcap](https://img.shields.io/badge/-Npcap-14151a?style=flat-square&logoColor=00FF9C)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-14151a?style=flat-square&logo=owasp&logoColor=00FF9C)
 
-</div>
+**Dev & Platform Tools**
+<br/>
+![Flask](https://img.shields.io/badge/-Flask-14151a?style=flat-square&logo=flask&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/-Git-14151a?style=flat-square&logo=git&logoColor=00FF9C)
+![GitHub](https://img.shields.io/badge/-GitHub-14151a?style=flat-square&logo=github&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/-Linux-14151a?style=flat-square&logo=linux&logoColor=00FF9C)
+![VS Code](https://img.shields.io/badge/-VS%20Code-14151a?style=flat-square&logo=visualstudiocode&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/-Docker-14151a?style=flat-square&logo=docker&logoColor=00FF9C)
+![Postman](https://img.shields.io/badge/-Postman-14151a?style=flat-square&logo=postman&logoColor=00FF9C)
 
 <br/>
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-
-**🔐 Offensive Security**
-<br/>
-Wireshark · Nmap · Metasploit
-<br/>
-Gobuster · Hydra · LinPEAS
-<br/>
-John the Ripper · Npcap
-
-</td>
-<td align="center" width="200">
-
-**🧠 CTF Domains**
-<br/>
-Reverse Engineering
-<br/>
-Binary Exploitation
-<br/>
-Digital Forensics · OSINT
-<br/>
-Applied Cryptography
-
-</td>
-<td align="center" width="200">
-
-**⚙️ Core Engineering**
-<br/>
-Data Structures & Algorithms
-<br/>
-Operating Systems
-<br/>
-Computer Networks
-<br/>
-Blockchain
-
-</td>
+<th align="left" width="260">Domain</th>
+<th align="left">Proficiency</th>
 </tr>
+<tr><td>Network Security & Packet Analysis</td><td>████████░░ 80%</td></tr>
+<tr><td>Threat Detection / IDS</td><td>████████░░ 80%</td></tr>
+<tr><td>Reverse Engineering</td><td>███████░░░ 70%</td></tr>
+<tr><td>Binary Exploitation</td><td>███████░░░ 70%</td></tr>
+<tr><td>Digital Forensics</td><td>███████░░░ 70%</td></tr>
+<tr><td>OSINT</td><td>████████░░ 80%</td></tr>
+<tr><td>Applied Cryptography</td><td>███████░░░ 70%</td></tr>
+<tr><td>Full-Stack Web Development</td><td>████████░░ 80%</td></tr>
 </table>
 
 ---
@@ -112,16 +113,14 @@ AI-powered intrusion detection platform — ensemble ML (XGBoost, Random Forest,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sriram-J-CS&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-J-CS&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram-J-CS&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="97%"/>
 
 </div>
-
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle.
 
 ---
 
