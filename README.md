@@ -68,44 +68,17 @@ stack: Python · Flask · Scapy · XGBoost · Wireshark · Kali Linux
 
 <br/>
 
-<table align="center">
-<tr>
-<th align="left" width="260">Domain</th>
-<th align="left">Proficiency</th>
-</tr>
-<tr><td>Network Security & Packet Analysis</td><td>████████░░ 80%</td></tr>
-<tr><td>Threat Detection / IDS</td><td>████████░░ 80%</td></tr>
-<tr><td>Reverse Engineering</td><td>███████░░░ 70%</td></tr>
-<tr><td>Binary Exploitation</td><td>███████░░░ 70%</td></tr>
-<tr><td>Digital Forensics</td><td>███████░░░ 70%</td></tr>
-<tr><td>OSINT</td><td>████████░░ 80%</td></tr>
-<tr><td>Applied Cryptography</td><td>███████░░░ 70%</td></tr>
-<tr><td>Full-Stack Web Development</td><td>████████░░ 80%</td></tr>
-</table>
-
----
-
-### 🛰️ Featured Build
-
-<div align="center">
-
-<table>
-<tr>
-<td width="60%">
-
-**CyberGuard IDS**
-AI-powered intrusion detection platform — ensemble ML (XGBoost, Random Forest, Isolation Forest) trained on CICIDS2017, real-time packet capture, live threat-mapping dashboard, and automated firewall response.
-
-`Python` `Flask` `Scapy` `XGBoost` `Chart.js` `Leaflet.js`
-
-</td>
-<td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="180">
-</td>
-</tr>
-</table>
-
-</div>
+**🧠 CTF & Security Focus**
+<br/>
+![Network Security](https://img.shields.io/badge/Network%20Security-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
+![Binary Exploitation](https://img.shields.io/badge/Binary%20Exploitation-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
+<br/>
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
+![OSINT](https://img.shields.io/badge/OSINT-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
+![Applied Cryptography](https://img.shields.io/badge/Applied%20Cryptography-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-14151a?style=for-the-badge&labelColor=00FF9C&color=14151a)
 
 ---
 
