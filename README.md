@@ -1,123 +1,134 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sriram+J;Cyber+Security+Student;Full-Stack+Developer;Building+CyberGuard+IDS" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-j-4965b8324/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramworkspace0107@gmail.com)
+[![Location](https://img.shields.io/badge/Chennai%2C%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF9C)](#)
+
+</div>
+
+---
+
+### 🧬 `whoami`
+
+```yaml
+role: Cyber Security Student @ Sathyabama Institute of Science & Technology
+focus: Network Security · Threat Detection · Intrusion Detection Systems
+offense: Penetration Testing · CTF Player (RE / PWN / Forensics / OSINT)
+builds: CyberGuard IDS — AI-powered Intrusion Detection Platform
+stack: Python · Flask · Scapy · XGBoost · Wireshark · Kali Linux
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  $ ssh sriram@root                                            │
-│  Connecting...                                                │
-│  Authentication successful ✔                                  │
-│                                                                 │
-│  Welcome, SRIRAM J                                             │
-│  ────────────────────────────────────────────────────────      │
-│  Role   : Cyber Security Student · Full-Stack Developer        │
-│  Status : [ONLINE] Hunting vulnerabilities, building things    │
-│  Loading profile ████████████████████████████████████ 100%    │
-└──────────────────────────────────────────────────────────────┘
-```
+
+---
+
+### ⚔️ Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,linux,git,github,vscode&theme=dark" />
 
 </div>
 
 <br/>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="60%" valign="middle">
+<td align="center" width="200">
 
-# 👋 Sriram J
+**🔐 Offensive Security**
+<br/>
+Wireshark · Nmap · Metasploit
+<br/>
+Gobuster · Hydra · LinPEAS
+<br/>
+John the Ripper · Npcap
 
-### Cyber Security Student &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; CTF Player
+</td>
+<td align="center" width="200">
 
-I dig into how systems break so I can help build ones that don't. Currently focused on **network security, threat detection, and intrusion analysis**, with a growing set of full-stack skills to understand what I'm actually defending.
+**🧠 CTF Domains**
+<br/>
+Reverse Engineering
+<br/>
+Binary Exploitation
+<br/>
+Digital Forensics · OSINT
+<br/>
+Applied Cryptography
 
-📍 Chennai, India &nbsp;|&nbsp; 🎓 B.E. CSE (Cyber Security)
+</td>
+<td align="center" width="200">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-j-4965b8324/)
-[![Email](https://img.shields.io/badge/-Email-00D4FF?style=flat-square&logo=gmail&logoColor=black)](mailto:sriramworkspace0107@gmail.com)
+**⚙️ Core Engineering**
+<br/>
+Data Structures & Algorithms
+<br/>
+Operating Systems
+<br/>
+Computer Networks
+<br/>
+Blockchain
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛰️ Featured Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+**CyberGuard IDS**
+AI-powered intrusion detection platform — ensemble ML (XGBoost, Random Forest, Isolation Forest) trained on CICIDS2017, real-time packet capture, live threat-mapping dashboard, and automated firewall response.
+
+`Python` `Flask` `Scapy` `XGBoost` `Chart.js` `Leaflet.js`
 
 </td>
 <td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="320"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="180">
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 📋 Quick Facts
+---
 
-| | |
-|---|---|
-| 🎯 **Focus** | Network Security · Threat Detection · Intrusion Detection Systems |
-| 🚩 **Currently** | Solving CTFs — Reverse Engineering, Pwn, Forensics, Crypto, OSINT |
-| 🧰 **Daily Toolchain** | Python · Wireshark · Nmap · Kali Linux |
-| 🌱 **Also Learning** | Full-stack development (HTML/CSS/JS + Flask APIs) |
-
-<br/>
-
-## 🧩 Skill Matrix
-
-<table width="100%">
-<tr>
-<th align="left" width="22%">Category</th>
-<th align="left">Stack</th>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark"/></td>
-</tr>
-<tr>
-<td><b>Dev Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,linux,flask&theme=dark"/></td>
-</tr>
-<tr>
-<td><b>Offensive Security</b></td>
-<td>Wireshark · Nmap · Metasploit · Gobuster · Hydra · John the Ripper</td>
-</tr>
-<tr>
-<td><b>Platform</b></td>
-<td>Kali Linux · LinPEAS</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚩 CTF Coverage
-
-<table width="100%">
-<tr>
-<td align="center" width="20%">🔍<br/><b>Reverse<br/>Engineering</b></td>
-<td align="center" width="20%">💥<br/><b>Binary<br/>Exploitation</b></td>
-<td align="center" width="20%">🧊<br/><b>Digital<br/>Forensics</b></td>
-<td align="center" width="20%">🔐<br/><b>Applied<br/>Cryptography</b></td>
-<td align="center" width="20%">🌍<br/><b>OSINT</b></td>
-</tr>
-</table>
-
-<br/>
-
-## 📈 Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B967FF&icon_color=00D4FF&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B967FF&text_color=c9d1d9" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=B967FF&point=FFFFFF" width="100%"/>
-</p>
-
-<br/>
-
-## 📫 Contact
-
-| | |
-|---|---|
-| Email | sriramworkspace0107@gmail.com |
-| LinkedIn | [sriram-j-4965b8324](https://www.linkedin.com/in/sriram-j-4965b8324/) |
-
-<br/>
+### 📊 GitHub Pulse
 
 <div align="center">
-<sub>Built with curiosity, caffeine, and a healthy respect for CVEs.</sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="97%"/>
+
+</div>
+
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=120&section=footer"/>
+
+**Let's connect and break things (legally).**
+
 </div>
