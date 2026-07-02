@@ -1,53 +1,198 @@
-<!-- ================= CYBER PROFILE ================= -->
+<div align="center">
 
-<!-- GREEN CYBER HEADER -->
-<!-- GREEN CYBER HEADER : BIG NAME + SUBTITLE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f1f,100:00ff88&height=200&section=header&text=Sriram%20J&fontColor=00ffcc&fontSize=52&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20CTF%20Player&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=260&section=header&text=SRIRAM%20J&fontColor=00ffcc&fontSize=60&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Full-Stack%20Developer%20%7C%20CTF%20Player&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
----
-- Focused on understanding system vulnerabilities, secure web applications, and real-world attack vectors  
-- Actively practicing CTF challenges to strengthen problem-solving and security fundamentals  
-- Exploring web and network security concepts through hands-on learning  
-- Learning full-stack web development alongside cyber security studies to understand how applications are built and secured  
----
+<br/>
 
-## 🔐 Cyber Security Skills
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-006400?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge)
-![Security Fundamentals](https://img.shields.io/badge/Security%20Fundamentals-008B8B?style=for-the-badge)
-![System Vulnerabilities](https://img.shields.io/badge/System%20Vulnerabilities-004953?style=for-the-badge)
+<a href="https://www.linkedin.com/in/sriram-j-4965b8324/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sriramworkspace0107@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+<img src="https://img.shields.io/badge/Location-Chennai%2C%20India-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
----
+<br/><br/>
 
-## 🧠 CTF Domains
-![Web Exploitation](https://img.shields.io/badge/Web%20Exploitation-0066CC?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-8B0000?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-008080?style=for-the-badge)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-4B4B4B?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=Building+CyberGuard+IDS+%E2%80%94+AI-Powered+Intrusion+Detection;Breaking+things+ethically+in+CTFs+%F0%9F%9A%A9;Reverse+Engineering+%7C+Binary+Exploitation+%7C+Forensics;Securing+the+web%2C+one+packet+at+a+time+%F0%9F%94%92" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🌐 Application Development (Supporting Skill)
+### 🧑‍💻 About Me
 
-I explore **application and full-stack development** to understand real-world software architecture.
+I'm a **Cyber Security student** at Sathyabama Institute of Science and Technology, specializing in **network security, threat detection, and intrusion detection systems**. I built **CyberGuard IDS**, a full-stack AI-powered intrusion detection platform combining ensemble machine learning with real-time monitoring — and I regularly compete in **CTF competitions** across reverse engineering, binary exploitation, digital forensics, and OSINT.
 
-**Focus Areas:**
-- Frontend fundamentals (HTML, CSS, JavaScript)
-- Backend basics and APIs
-- Secure coding awareness
-- Understanding application attack surfaces
-
----
-
-## 🧭 Currently Working On
-- Malware analysis fundamentals  
-- Advanced CTF problem solving  
-- Strengthening networking knowledge  
-- Secure application design concepts  
+- 🛡️ Currently interning as a **Cyber Security Intern**, performing security assessments & vulnerability analysis
+- 🤖 Building **AI + Security** hybrid systems (ML-based threat detection, alert triage chatbots)
+- 🚩 Actively solving CTF challenges spanning **RE, Pwn, Forensics, Crypto, and OSINT**
+- 🌱 Also exploring full-stack development to understand how the apps I secure are actually built
+- 📫 Reach me at **sriramworkspace0107@gmail.com**
 
 ---
 
-## 📫 Contact
-📧 sriramworkspace0107@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/sriram-j-4965b8324/  
+### 🔥 Featured Project — CyberGuard IDS
+
+<div align="center">
+
+| | |
+|---|---|
+| **Type** | AI-Powered Intrusion Detection System (Capstone Project) |
+| **ML Models** | XGBoost · Random Forest · Isolation Forest (Ensemble) |
+| **Dataset** | CICIDS2017 |
+| **Backend** | Flask · Scapy · Npcap (Live Packet Capture) |
+| **Dashboard** | Chart.js · Leaflet.js (Real-time Traffic + Geolocated Threat Map) |
+| **Auto-Response** | Windows Firewall (`netsh`) Auto-Blocking |
+| **AI Assistant** | Claude API-Powered Alert Triage Chatbot |
+| **Deliverables** | Full Design Thinking Report + 30-Slide Technical Presentation |
+
+</div>
+
+> A full-stack platform that detects network attack patterns in real time, visualizes threats geographically, and automatically blocks malicious traffic — with an AI chatbot to triage alerts.
+
+---
+
+### 🚩 CTF & Security Competitions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Reverse Engineering**
+Analyzed a UPX-packed ELF binary, reversing XOR and arithmetic obfuscation layers to recover the embedded flag.
+
+**💥 Binary Exploitation**
+Exploited a heap overflow vulnerability (`ovhparse` challenge) to gain control of program execution.
+
+</td>
+<td width="50%" valign="top">
+
+**🧊 Digital Forensics**
+Recovered secrets from a corrupted disk image by reconstructing and analyzing Git commit history.
+
+**🔐 Applied Cryptography**
+Analyzed a Diffie-Hellman key exchange captured in a `.pcapng` file to recover the shared secret.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🌍 OSINT**
+Geolocated a target from a single image using only visual and metadata clues.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Experience
+
+**Cyber Security Intern** — *Career Solutions, Chennai* `May 2026 – Jun 2026`
+- Performed security assessments and vulnerability analysis on client systems and network infrastructure using Wireshark and Nmap
+- Authored security reports documenting risks, findings, and mitigation strategies
+- Applied ethical hacking techniques in controlled test environments
+- Collaborated on incident response workflows and security awareness activities
+
+**Full Stack Developer Intern** — *Cognifyz Technologies, Remote* `2025`
+- Built responsive web application components with HTML5, CSS3, and JavaScript, integrating RESTful APIs
+- Contributed to debugging, testing, and performance optimization
+- Practiced Git/GitHub version control throughout the SDLC
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Security Tools**
+<br/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-006400?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinPEAS-2E8B57?style=for-the-badge"/>
+
+**Platforms & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+**Focus Domains**
+<br/>
+<img src="https://img.shields.io/badge/Network%20Security-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-008B8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-004953?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Incident%20Response-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Secure%20Coding-0066CC?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF"/>
+
+</div>
+
+> ⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username for these stat cards to render.
+
+---
+
+### 🎓 Education & Certifications
+
+**B.E. Computer Science & Engineering (Cyber Security)** — Sathyabama Institute of Science and Technology, Chennai · *Expected 2028*
+
+- 🏅 NPTEL Certified — Cryptography & Network Security (IIT Level)
+- 🏅 NPTEL Certified — Python & Java
+- 🏅 Cisco Junior Cyber Security Analyst Career Path
+- 🏅 Ethical Hacking Hands-on Training (E-Certificate)
+- 🏅 Great Learning — C for Beginners
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/sriram-j-4965b8324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sriramworkspace0107@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=120&section=footer" width="100%"/>
+
+</div>
