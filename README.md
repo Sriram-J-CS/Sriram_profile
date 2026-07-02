@@ -10,8 +10,6 @@
 <a href="mailto:sriramworkspace0107@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-00d4ff?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/badge/Location-Chennai%2C%20India-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B967FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;CTF+Player+%7C+Ethical+Hacker+%F0%9F%9A%A9;Network+Security+%7C+Threat+Detection+%F0%9F%94%92" alt="Typing SVG" />
@@ -85,21 +83,6 @@ Geolocated a target from a single image using only visual and metadata clues.
 </td>
 </tr>
 </table>
-
----
-
-### 💼 Experience
-
-**Cyber Security Intern** — *Career Solutions, Chennai* `May 2026 – Jun 2026`
-- Performed security assessments and vulnerability analysis on client systems and network infrastructure using Wireshark and Nmap
-- Authored security reports documenting risks, findings, and mitigation strategies
-- Applied ethical hacking techniques in controlled test environments
-- Collaborated on incident response workflows and security awareness activities
-
-**Full Stack Developer Intern** — *Cognifyz Technologies, Remote* `2025`
-- Built responsive web application components with HTML5, CSS3, and JavaScript, integrating RESTful APIs
-- Contributed to debugging, testing, and performance optimization
-- Practiced Git/GitHub version control throughout the SDLC
 
 ---
 
